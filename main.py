@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_community.document_loaders import WebBaseLoader
 from chain import Chain
-from Portfolio import portfolio
+from portfolio import Portfolio
 from utils import clean_text
 
 
