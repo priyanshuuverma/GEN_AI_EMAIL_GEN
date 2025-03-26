@@ -1,3 +1,5 @@
 langchain-community
 langchain-groq
 chromadb
+streamlit
+python-3.11
