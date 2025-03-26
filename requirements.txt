@@ -192,7 +192,6 @@ smmap
 sniffio
 sounddevice
 soupsieve
-SQLAlchemy
 stack-data
 starlette
 streamlit
