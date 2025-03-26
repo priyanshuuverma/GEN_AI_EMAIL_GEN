@@ -1,3 +1,5 @@
+pip install --upgrade sqlite3
+pip install --upgrade pip
 absl-py
 aiohappyeyeballs
 aiohttp
